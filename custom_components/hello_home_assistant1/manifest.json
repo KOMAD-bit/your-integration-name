@@ -1,0 +1,12 @@
+{
+  "domain": "hello_home_assistant1",
+  "name": "Hello Home Assistant 1",
+  "codeowners": ["@KOMAD-bit"],
+  "config_flow": true,
+  "documentation": "https://github.com/KOMAD_bit/hello_home_assistant1/README.md",
+  "integration_type": "hub",
+  "iot_class": "assumed_state",
+  "issue_tracker": "https://github.com/KOMAD-bit/hello_home_assistant1/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Hello Home Assistant",
+    "filename": "custom_components/hello_home_assistant1",
+    "country": ["AT"],
+    "homeassistant": "2023.0.0",
+    "render_readme": true
+}
